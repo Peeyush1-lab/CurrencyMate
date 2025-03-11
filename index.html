@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CurrencyMate</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3015/3015072.png">
+</head>
+<body>
+  <div class="glass-container">
+    <h1>Currency Converter 💰</h1>
+
+    <div class="converter">
+
+      <input type="number" id="amount" placeholder="Enter amount" value="1" min="0">
+
+
+      <div class="currency-selector">
+        <img id="fromFlag" src="https://via.placeholder.com/40" alt="From Country Flag" class="flag">
+        <select id="fromCurrency">
+
+        </select>
+      </div>
+
+      <span>to</span>
+
+
+      <div class="currency-selector">
+        <img id="toFlag" src="https://via.placeholder.com/40" alt="To Country Flag" class="flag">
+        <select id="toCurrency">
+
+        </select>
+      </div>
+
+      <button id="convertBtn">Convert</button>
+    </div>
+
+
+    <div class="result">
+      <p id="resultText">Result will appear here</p>
+    </div>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
