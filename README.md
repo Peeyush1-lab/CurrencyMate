@@ -19,8 +19,8 @@ A **real-time currency converter** that allows users to convert amounts between 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/currency-converter.git
-cd currency-converter
+git clone https://github.com/Peeyush1-lab/CurrencyMate.git
+cd CurrencyMate
 ```
 
 ### 2️⃣ Set Up API Key
