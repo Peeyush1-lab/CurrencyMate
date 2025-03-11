@@ -10,7 +10,7 @@ A **real-time currency converter** that allows users to convert amounts between 
 - 🏎️ Optimized for fast response time
 
 ## 🖼️ Screenshots
-![Currency Converter Preview](screenshot.png)
+![Currency Converter Preview](screenshot.jpg)
 
 ## 🔧 Technologies Used
 - **Frontend:** HTML, CSS (Glassmorphism UI), JavaScript
